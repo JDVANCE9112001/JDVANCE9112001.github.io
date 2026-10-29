@@ -51,7 +51,7 @@ because all paths are relative and no cookies/storage are used.
 
 - Name / headline: the `.hero` block in `index.html`.
 - Sections: `#about`, `#now`, `#work`, `#contact` in `index.html`.
-- GitHub link: replace `https://github.com/keqianniu` with your real profile URL.
+- GitHub link: `https://github.com/JDVANCE9112001` (change it in `index.html` if the account changes).
 - Colours and spacing: the `:root` custom properties at the top of `style.css`.
 
 Keep student ID, home address, phone number, email address and any private homework out of this
